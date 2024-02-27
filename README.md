@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Priyanshu Singh</h1>
 <h3 align="center">A passionate frontend developer and Problem Solver.</h3>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusingh08&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusingh08" /> </p>
 
-- 🔭 About Me => **Frontend whiz diving into backend, passionate problem-solver, always hungry for new knowledge! 🚀**
+- 🔭 About Me => **Frontend whiz diving into the backend, passionate problem-solver, always hungry for new knowledge! 🚀**
 
 - 🌱 I’m currently learning => **Reactjs , Nodejs**
 
 - 📫 How to reach me => **priyanshusingh8102@gmail.com**
 
-- 📄 Know about my experiences => [priyanshusingh08.github.io /resume.html](priyanshusingh08.github.io /resume.html)
+- 📄 Know about my experiences => **priyanshusingh08.github.io /resume.html**
 
 - ⚡ Fun fact => **Priyanshu Singh: Frontend fanatic, problem-solving pro, and all-around fun-loving coder! 🎉**
 
