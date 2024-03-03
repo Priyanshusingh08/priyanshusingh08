@@ -13,7 +13,8 @@
 
 - 📫 How to reach me => **priyanshusingh8102@gmail.com**
 
-- 📄 Know about my experiences => **priyanshusingh08.github.io /resume.html**
+- 📄 Know about my experiences => **Priyanshusingh08.github.io
+/index.html**     
 
 - ⚡ Fun fact => **Priyanshu Singh: Frontend fanatic, problem-solving pro, and all-around fun-loving coder! 🎉**
 
